@@ -1,6 +1,6 @@
 # Rollout Deployments
 
-So far deployments don't seem very different than **ReplicaSets**.  Let's do a rollout of a different version.
+So far deployments don't seem very different than **ReplicaSets**. Let's do a rollout of a different version.
 
 Before we proceed we can check the status and history of our deployments by running the following commands:
 
