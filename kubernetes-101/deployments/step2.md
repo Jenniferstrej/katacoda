@@ -1,6 +1,6 @@
 # ReplicaSets
 
-In your first exercise you ran a pod in the cluster, what happens when you actually want to run multiple pods?
+In your first exercise you run a pod in the cluster, what happens when you actually want to run multiple pods?
 
 Run `kubectl run http --image=nginx:1.14.2` multiple times?
 
